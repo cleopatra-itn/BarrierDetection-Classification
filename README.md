@@ -12,6 +12,7 @@ Detection of news propagation barriers (economical, cultural,political, time zon
 - Time-Zone
 
 ## Database schema for barriers
+![alt text](https://github.com/cleopatra-itn/BarrierDetection-Classification/schema (3).png)
 
 ## Relevant Publications
 Using the profile of publishers to predict barriers across news articles
