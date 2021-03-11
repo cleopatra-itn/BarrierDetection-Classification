@@ -14,6 +14,8 @@ Detection of news propagation barriers (economical, cultural,political, time zon
 ## Database schema for barriers
 
 ## Relevant Publications
-
+Using the profile of publishers to predict barriers across news articles
 
 ## About this Repository
+## Data
+- [Data](http://doi.org/10.5281/zenodo.4460020)
