@@ -13,3 +13,7 @@ Detection of news propagation barriers (economical, cultural,political, time zon
 
 ## Database schema for barriers
 
+## Relevant Publications
+
+
+## About this Repository
