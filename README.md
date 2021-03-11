@@ -12,7 +12,7 @@ Detection of news propagation barriers (economical, cultural,political, time zon
 - Time-Zone
 
 ## Database schema for barriers
-![BarrierDetection](/schema (3).png?raw=true "Barriers schema")()
+![BarrierDetection](/schemaa.png)
 
 ## Relevant Publications
 Using the profile of publishers to predict barriers across news articles
